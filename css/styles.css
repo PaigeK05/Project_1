@@ -83,12 +83,14 @@ footer img {
   margin-top: 150px;
   /* border: 1px dashed; */
 
-  font-family: 'Playfair Display';
-  font-weight: 1000;
+ 
+  font-family: "Hanalei Fill", system-ui;
+  font-weight: 400;
   font-size: 50px;
-  font-style: italic;
+  font-style: normal;
   text-align: center;
   color: #5F27AB;
+  
 
   transform: translateY(10px);
   opacity: 0;
