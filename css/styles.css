@@ -81,11 +81,11 @@ footer img {
   /* border: 1px dashed; */
 
   font-family: 'Playfair Display';
-  font-weight: 900;
-  font-size: 48px;
+  font-weight: 1000;
+  font-size: 50px;
   font-style: italic;
   text-align: center;
-  color: var(--accent-color);
+  color: #5F27AB;
 
   transform: translateY(10px);
   opacity: 0;
