@@ -9,22 +9,38 @@ body {
   font-style: normal;
   
 }
-   #p1 {background-color: #FF9E2B;}
-   #p2 {background-color: #9CFF17;}
-   #p3 {background-color: #1D401D;}
-   #p4 {background-color: #FFDC0F;}
-   #p5 {background-color: #6E0400;}
-   #p6 {background-color: #FF2BD9;}
-   #p7 {background-color: #362423;}
-   #p8 {background-color: #636363;}
-   #p9 {background-color: #B33E00;}
-   #p10 {background-color: #65E091;}
-   #p11 {background-color: #55CCFA;}
-   #p12 {background-color: #005915;}
-   #p13 {background-color: #EEAFFF;}
-   #p14 {background-color: #FFFC99;}
-   #p15 {background-color: #FFA3D8;}
-   #p16 {background-color: #C4D162;}
+   #p1 {background-color: #FF9E2B;
+        width: 500}
+   #p2 {background-color: #9CFF17;
+       width: 150}
+   #p3 {background-color: #1D401D;
+        width: 300}
+   #p4 {background-color: #FFDC0F;
+        width: 400}
+   #p5 {background-color: #6E0400;
+        width: 180}
+   #p6 {background-color: #FF2BD9;
+        width: 100}
+   #p7 {background-color: #362423;
+        width: 190}
+   #p8 {background-color: #636363;
+        width: 120}
+   #p9 {background-color: #B33E00;
+        width: 250}
+   #p10 {background-color: #65E091;
+         width: 260}
+   #p11 {background-color: #55CCFA;
+         width: 240}
+   #p12 {background-color: #005915;
+         width: 450}
+   #p13 {background-color: #EEAFFF;
+         width: 600}
+   #p14 {background-color: #FFFC99;
+         width: 670}
+   #p15 {background-color: #FFA3D8;
+         width: 450}
+   #p16 {background-color: #C4D162;
+         width: 750}
 
 
 p {
