@@ -1,16 +1,31 @@
 :root {
   --accent-color: #35748a;
-  --bg-color: #ecddd7;
 }
 
 body {
-  background-color: var(--bg-color);
-
+  background-color: #000000;
   font-family: "Rock Salt", cursive;
   font-weight: 400;
   font-style: normal;
   
 }
+   #p1 {background-color: #FF9E2B;}
+   #p2 {background-color: #9CFF17;}
+   #p3 {background-color: #1D401D;}
+   #p4 {background-color: #FFDC0F;}
+   #p5 {background-color: #6E0400;}
+   #p6 {background-color: #FF2BD9;}
+   #p7 {background-color: #362423;}
+   #p8 {background-color: #636363;}
+   #p9 {background-color: #B33E00;}
+   #p10 {background-color: #65E091;}
+   #p11 {background-color: #55CCFA;}
+   #p12 {background-color: #005915;}
+   #p13 {background-color: #EEAFFF;}
+   #p14 {background-color: #FFFC99;}
+   #p15 {background-color: #FFA3D8;}
+   #p16 {background-color: #C4D162;}
+
 
 p {
   max-width: 50ch;
@@ -21,6 +36,8 @@ p {
   font-size: 1.3rem;
   line-height: 1.7rem;
   text-align: center;
+  line-height: 2;
+  
 }
 
 nav {
