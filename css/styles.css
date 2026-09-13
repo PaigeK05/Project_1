@@ -9,8 +9,14 @@ body {
   font-style: normal;
   
 }
+
+#img1 {width: 400px;
+      position: absolute;
+      top: 500px;
+      left: 595px}
+
    #p1 {background-color: #FF9E2B;
-        width: 500}
+        width: 400}
    #p2 {background-color: #9CFF17;
        width: 150}
    #p3 {background-color: #1D401D;
@@ -41,7 +47,6 @@ body {
          width: 450}
    #p16 {background-color: #C4D162;
          width: 750}
-
 
 p {
   max-width: 50ch;
