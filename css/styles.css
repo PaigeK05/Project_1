@@ -46,6 +46,15 @@ body {
   position: absolute; 
   left: 450px}
 
+#img5 {
+  width: 200px;
+  animation-name: slideAcross;
+  animation-duration:10s; 
+  animation-iteration-count: infinite; 
+  animation-direction: linear;
+  
+}
+
    #p1 {background-color: #FF9E2B;
         width: 450px}
    #p2 {background-color: #9CFF17;
