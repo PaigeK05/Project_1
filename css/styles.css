@@ -17,7 +17,7 @@ body {
 
 @keyframes slideAcross {
   0% { transform: translateX(-100%); }
-  100% { transform: translateX(100%);}
+  100% { transform: translateX(100vw);}
 }
 
 #img1 {width: 400px;
@@ -48,8 +48,10 @@ body {
 
 #img5 {
   width: 200px;
+  position: absolute;
+  top: 400px;
   animation-name: slideAcross;
-  animation-duration:10s; 
+  animation-duration:20s; 
   animation-iteration-count: infinite; 
   animation-direction: linear;
   
