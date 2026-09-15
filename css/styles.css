@@ -15,6 +15,16 @@ body {
       top: 500px;
       left: 595px}
 
+#img2 {width: 180px;
+      position: absolute;
+      top: 200px;
+      left: 60px}
+
+#img3 {width: 180px;
+      position: absolute;
+      top: 200px;
+      left: 630px}
+
    #p1 {background-color: #FF9E2B;
         width: 400}
    #p2 {background-color: #9CFF17;
