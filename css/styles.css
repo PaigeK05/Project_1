@@ -17,8 +17,8 @@ body {
 
 #img1 {width: 400px;
       position: absolute;
-      top: 500px;
-      left: 595px}
+      top: 520px;
+      left: 760px}
 
 #img2 {width: 180px;
       position: absolute;
@@ -28,7 +28,7 @@ body {
 #img3 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 630px}
+      left: 930px}
 
 #img4 {
   width: 400px;
@@ -39,7 +39,7 @@ body {
   animation-direction: normal;
   animation-fill-mode: backwards;
   position: absolute; 
-  left: 250px}
+  left: 450px}
 
    #p1 {background-color: #FF9E2B;
         width: 450}
