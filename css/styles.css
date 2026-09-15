@@ -23,17 +23,20 @@ body {
 #img1 {width: 400px;
       position: absolute;
       top: 520px;
-      left: 760px}
+      left: 760px;
+      z-index: 1;}
 
 #img2 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 60px}
+      left: 60px;
+      z-index: 2}
 
 #img3 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 930px}
+      left: 930px;
+      z-index: 3}
 
 #img4 {
   width: 400px;
@@ -44,7 +47,8 @@ body {
   animation-direction: normal;
   animation-fill-mode: backwards;
   position: absolute; 
-  left: 450px}
+  left: 450px;
+  z-index: 4}
 
 #img5 {
   width: 200px;
@@ -54,8 +58,7 @@ body {
   animation-duration: 20s; 
   animation-iteration-count: infinite; 
   animation-direction: linear;
-  
-}
+  z-index: 5}
 
    #p1 {background-color: #FF9E2B;
         width: 450px}
