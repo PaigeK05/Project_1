@@ -51,7 +51,7 @@ body {
   position: absolute;
   top: 400px;
   animation-name: slideAcross;
-  animation-duration:20s; 
+  animation-duration: 20s; 
   animation-iteration-count: infinite; 
   animation-direction: linear;
   
