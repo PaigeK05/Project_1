@@ -23,12 +23,12 @@ body {
 #img2 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 60px}
+      left: 300px}
 
 #img3 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 930px}
+      left: 940px}
 
 #img4 {
   width: 400px;
@@ -39,7 +39,7 @@ body {
   animation-direction: normal;
   animation-fill-mode: backwards;
   position: absolute; 
-  left: 450px}
+  left: 500px}
 
    #p1 {background-color: #FF9E2B;
         width: 450px}
