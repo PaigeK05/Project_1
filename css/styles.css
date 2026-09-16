@@ -24,13 +24,13 @@ body {
 #img1 {width: 400px;
       position: absolute;
       top: 520px;
-      left: 860px;
+      left: 890px;
       z-index: 2;}
 
 #img2 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 300px;
+      left: 320px;
       z-index: 3;}
 
 #img3 {width: 180px;
@@ -48,7 +48,7 @@ body {
   animation-direction: normal;
   animation-fill-mode: backwards;
   position: absolute; 
-  left: 500px;
+  left: 530px;
   z-index: 5;}
 
 #img5 {
@@ -63,10 +63,10 @@ body {
 
 #img6 {
   width: 100px;
-  z-index: 1; 
-  position: relative; 
-  top: 10px; 
-  left: 100px; 
+  z-index: -1; 
+  position: absolute; 
+  top: 0px; 
+  left: 0px; 
 }
 
    #p1 {background-color: #FF9E2B;
