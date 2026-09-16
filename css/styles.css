@@ -30,13 +30,13 @@ body {
 #img2 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 90px;
+      left: 300px;
       z-index: 3;}
 
 #img3 {width: 180px;
       position: absolute;
       top: 200px;
-      left: 930px;
+      left: 990px;
       z-index: 4;}
 
 #img4 {
@@ -48,7 +48,7 @@ body {
   animation-direction: normal;
   animation-fill-mode: backwards;
   position: absolute; 
-  left: 450px;
+  left: 500px;
   z-index: 5;}
 
 #img5 {
