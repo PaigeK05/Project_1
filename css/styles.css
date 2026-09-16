@@ -7,8 +7,8 @@ body {
   font-family: "Rock Salt", cursive;
   font-weight: 400;
   font-style: normal;
-  
 }
+
 
 @keyframes slideDownAnimation {
   0% { transform: translateY(-100px); opacity: 0; }
@@ -62,11 +62,11 @@ body {
   z-index: 6;}
 
 #img6 {
-  width: 400px; 
-  position: absolute;
-  top: 300px;
-  left: 400px;
-  z-index: 1;
+  width: 100px;
+  z-index: 1; 
+  position: relative; 
+  top: 10px; 
+  left: 100px; 
 }
 
    #p1 {background-color: #FF9E2B;
@@ -102,6 +102,8 @@ body {
    #p16 {background-color: #C4D162;
          width: 750px}
 
+
+
 p {
   max-width: 50ch;
   margin: 0 auto;
@@ -109,7 +111,6 @@ p {
 
   font-weight: 100;
   font-size: 1.3rem;
-  line-height: 1.7rem;
   text-align: center;
   line-height: 2;
   
@@ -131,13 +132,6 @@ nav {
 }
 
 footer {
-  position: fixed;
-  bottom: 40px;
-
-  display: flex;
-  justify-content: space-around;
-
-  width: 100vw;
   /* border: 1px dashed; */
 }
 
